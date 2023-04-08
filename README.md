@@ -1,7 +1,3 @@
-
-Simple API Rest + CRUD in React
-
-
 # Backend Technologies
 
 Technologies that I used to develop this api
